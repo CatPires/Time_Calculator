@@ -1,3 +1,7 @@
+# Scientific Computing with Python Certification (Free Code Camp)
+
+## Time Calculator project
+
 ### Assignment
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
